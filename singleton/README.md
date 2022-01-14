@@ -4,8 +4,6 @@ The best solutions would be:
 - Using initialization-on-demand holder idiom ([`nik.roma.wikipedia.InnerHolderSingleton`](./src/main/java/nik/roma/wikipedia/InnerHolderSingleton.java))
 - Using double-checked locking and other preventive steps ([`nik.roma.internet.WatchfulSingleton`](./src/main/java/nik/roma/internet/WatchfulSingleton.java))
 
-[link](./src/main/java/nik/roma/internet/WatchfulSingleton.java)
-
 ### References:
 1. https://en.wikipedia.org/wiki/Singleton_pattern
 2. Effective Java, 3rd Edition, Item 3
